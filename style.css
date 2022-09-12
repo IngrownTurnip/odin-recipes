@@ -35,7 +35,6 @@ li {
 .bord{border-style: solid;
     border-radius: 300px;
     border-width: 5px;
-    margin-left: 775px;
-    margin-right: 775px;
+    padding: 10px;
     text-align: center;
 }
