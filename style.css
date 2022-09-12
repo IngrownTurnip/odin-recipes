@@ -31,3 +31,10 @@ li {
           
 }
 .pad{padding-top: 25px;}
+
+.bord{border-style: solid;
+    border-radius: 300px;
+    border-width: 5px;
+    margin-left: 775px;
+    margin-right: 775px;
+}
