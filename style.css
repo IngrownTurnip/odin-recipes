@@ -1,40 +1,13 @@
-.center { text-align: center;
-    /* margin-left: 15px;
-} */
-h1 {border-style:solid; border-color: black; margin-right: 1605px;}
-
-/* body {
-    background-color: rgb(173, 134, 84);
-} */
-
-/* h3 {
-    font-size: large;
-} */
-
-p {
-    font-size: 20px;
-}
-
-/* a {
-    font-size: 40px; */
-}
-
-li {
-    font-size: 20px;
-}
-
-.nl {
-    margin: 25px;
-}
-
-.linksize{font-size: 25px;
-          
-}
-.pad{padding-top: 25px;}
-
-.bord{border-style: solid;
-    border-radius: 300px;
-    border-width: 5px;
-    padding: 10px;
+* {
     text-align: center;
+}
+
+.bord {
+    border: 5px;
+    border-style: solid;
+    border-radius: 250px;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    
 }
