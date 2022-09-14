@@ -11,3 +11,38 @@
     margin-right: 40%;
     
 }
+.test {
+    /* border-sizing: border-box; */
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(89, 173, 145);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 0px;
+    background-color: rgb(182, 226, 255);
+    
+    font-weight: bold;
+}
+.rec {
+    border-style: solid;
+    border-width: 5px;
+    border-color: brown;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 0px;
+    background-color: chocolate;
+    
+    font-weight: bold;
+
+}
+
+body {
+    background-image: url("images/pots.jpg");
+}
+
+.shade {
+    background-color: rgba(255, 228, 196, 0.705);
+    margin-right: 70%;
+    border: 5px;
+    font-weight: bold;
+}
