@@ -12,7 +12,8 @@
     
 }
 .test {
-    /* border-sizing: border-box; */
+    display: lock;
+    border-sizing: border-box;
     border-style: solid;
     border-width: 5px;
     border-color: rgb(89, 173, 145);
@@ -24,6 +25,8 @@
     font-weight: bold;
 }
 .rec {
+    display: block;
+    border-sizing: border-box;
     border-style: solid;
     border-width: 5px;
     border-color: brown;
@@ -31,7 +34,7 @@
     margin-right: 35%;
     margin-bottom: 0px;
     background-color: chocolate;
-    
+   
     font-weight: bold;
 
 }
