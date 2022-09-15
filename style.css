@@ -1,5 +1,5 @@
 .center {
-    text-align: center;
+    text-align: auto;
 }
 
 .bord {
@@ -23,6 +23,7 @@
     background-color: rgba(182, 226, 255, 0.767);
     font-size:x-large;
     font-weight: bold;
+    text-align: center;
 }
 .rec {
     display: block;
@@ -36,11 +37,12 @@
     background-color: rgba(210, 105, 30, 0.733);
     font-size: x-large;
     font-weight: bold;
+    text-align: center;
 
 }
 
 body {
-    background-image: url("images/pots.jpg");
+    background-image: url("images/pots.jpg"); width: auto;
 }
 
 .shade {
